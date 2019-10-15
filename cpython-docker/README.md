@@ -10,5 +10,5 @@ Steps:
 
 ```bash
 sudo make build  # only the first time to build the image
-make launch
+make shell
 ```
